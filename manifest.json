@@ -1,0 +1,16 @@
+{
+  "name": "Lærðu Íslensku",
+  "short_name": "Íslensku",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f7fc",
+  "theme_color": "#0b3d91",
+  "lang": "pt-PT",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
